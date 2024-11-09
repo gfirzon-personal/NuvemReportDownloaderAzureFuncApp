@@ -137,3 +137,4 @@ __azurite_db*__.json
 # Local environment variables
 #settings.py
 azureSettings.py
+services/azureSettings.py
