@@ -3,7 +3,6 @@ docker build -t my-azure-function .
 ```
 
 ```sh
-docker run -p 8080:80 -it my-azure-function
 docker run -p 7071:80 -it my-azure-function
 ```
 
