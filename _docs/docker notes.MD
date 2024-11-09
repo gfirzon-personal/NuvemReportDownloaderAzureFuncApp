@@ -1,6 +1,5 @@
 ```sh
 docker build -t my-azure-function .
-docker build -t my-python-azure-function .
 ```
 
 ```sh
